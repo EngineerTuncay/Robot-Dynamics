@@ -6,3 +6,6 @@ Merhabalar, Matlab Guide arayüz çalışmasında 3 dönel eksenli bir robor kol
 
 Simulasyonu başlatmadan önce robotun hareekti için gerekli başlangıç ve bitiş açıları girilir ve simulasyon başlatılır.
 
+# Matlab projenizi uygun bir maliyete yaptırmak için;
+# Wp: +90 542 667 08 99
+# Email: tuncayuslu1997@gmail.com
